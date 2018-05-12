@@ -1,0 +1,31 @@
+_repo: Gilbertus-Anglicus--Medicine-of-the-Thirteenth-Century_16155
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Handerson, Henry E. (Henry Ebenezer)
+    alias: Handerson, Henry Ebenezer
+    birthdate: 1837
+    deathdate: 1918
+    gutenberg_agent_id: '6517'
+    url: http://www.gutenberg.org/2009/agents/6517
+description: 'Explanatory foreword -- Biography -- Resolutions of the Cleveland Medical
+  Library Ass''n -- Gilbertus Anglicus : a study of medicine in the Thirteenth Century.'
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2005-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine, Medieval'
+- !lcsh 'Physicians -- Biography'
+- !lcsh 'Gilbertus, Anglicus'
+- !lcc 'R'
+title: 'Gilbertus Anglicus: Medicine of the Thirteenth Century'
+url: http://www.gutenberg.org/ebooks/16155
